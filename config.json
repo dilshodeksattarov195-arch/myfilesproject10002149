@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncrocess",
+        "uuid": 7953449,
+        "checksum": "7cmrs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
